@@ -1,0 +1,2 @@
+unset WEBSOCKET_HOST
+unset WEBSOCKET_PORT

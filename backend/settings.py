@@ -1,0 +1,4 @@
+import os
+
+WEBSOCKET_HOST = os.getenv('WEBSOCKET_HOST')
+WEBSOCKET_PORT = os.getenv('WEBSOCKET_PORT')
